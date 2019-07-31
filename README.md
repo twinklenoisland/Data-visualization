@@ -1,4 +1,7 @@
-# Data-visualization
-Mainly use python plotly and dash to create interactive data visualizations and design dashboard web APPs.
+# Interactive data visualization
+Aim to use python plotly, dash and functions in jupyter NBextensions to create smarter data visualizations and design dashboards that can be useful for business decision making or personal interests. 
 
-"Interactive dash charts.py" contains interactive graphs with dropdowns, slider, radiobuttons and hover reaction on plots and you can check the output results in "Figure 1".
+## Dashboard with python dash and plotly
+"Interactive dash charts.py" uses a world situation dataset with indicators in various aspects and creates interactive graphs with dropdowns, slider, radiobuttons and hover reaction on plots. Figure 1 shows the output.
+
+[Output](Figure 1.JPG)
